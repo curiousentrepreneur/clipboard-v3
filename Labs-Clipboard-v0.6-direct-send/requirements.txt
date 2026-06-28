@@ -1,0 +1,8 @@
+cryptography>=42.0.0
+pyperclip>=1.8.2
+Pillow>=10.0.0
+customtkinter>=5.2.0
+qrcode>=7.4.2
+spake2>=0.9
+pystray>=0.19.5
+keyboard>=0.13.5
